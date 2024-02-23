@@ -1,0 +1,5 @@
+# Usage:
+# pip install -r requirements-gpu.txt -f https://download.pytorch.org/whl/nightly/cu110/torch_nightly.html
+
+torch
+torchvision

@@ -1,0 +1,9 @@
+{
+  "name": "dreampower-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@dreamnet/deploy": "^0.1.0",
+    "node-7z": "^2.1.1"
+  }
+}
