@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 4,
+
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": false,
+  "jira-plugin.workingProject": "",
+  "python.pythonPath": "C:\\Users\\koles\\anaconda3\\envs\\dreampower\\python.exe"
+}

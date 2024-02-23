@@ -1,0 +1,71 @@
+# Logs
+logs
+*.log
+
+# Process Images
+src/*.png
+src/*.jpg
+src/*.gif
+src/*.mp4
+src/*.webm
+src/altered/
+src/canary/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Cache
+__pycache__
+
+# dotenv environment variables file
+.env
+
+# Checkpoints
+checkpoints/
+
+# Build
+build/
+
+# Dist
+dist/
+
+# node_modules
+node_modules/
+
+# release script
+.eslintrc.js
+.prettierrc
+*.tar.gz
+*.7z
+
+# Build Configuration
+*.spec
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea
+*.kdev4
+
+# flake
+.flake8
+requirements_flake8.txt
+
+# Test
+tests
+checkpoints
+checkpoints_new
